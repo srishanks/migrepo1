@@ -1,0 +1,15 @@
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.csproj.CoreCompileInputs.cache
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.AssemblyInfoInputs.cache
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.AssemblyInfo.cs
+C:\Users\srishanadm\source\repos\srishan1\srishan1\bin\Debug\netcoreapp2.1\srishan1.deps.json
+C:\Users\srishanadm\source\repos\srishan1\srishan1\bin\Debug\netcoreapp2.1\srishan1.runtimeconfig.json
+C:\Users\srishanadm\source\repos\srishan1\srishan1\bin\Debug\netcoreapp2.1\srishan1.runtimeconfig.dev.json
+C:\Users\srishanadm\source\repos\srishan1\srishan1\bin\Debug\netcoreapp2.1\srishan1.dll
+C:\Users\srishanadm\source\repos\srishan1\srishan1\bin\Debug\netcoreapp2.1\srishan1.pdb
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.csprojAssemblyReference.cache
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.RazorAssemblyInfo.cache
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.RazorAssemblyInfo.cs
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.RazorTargetAssemblyInfo.cache
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.dll
+C:\Users\srishanadm\source\repos\srishan1\srishan1\obj\Debug\netcoreapp2.1\srishan1.pdb
